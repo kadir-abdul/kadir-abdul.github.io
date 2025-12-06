@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Md Abdul Kadir – Researcher in Deep Learning, XAI, and Interactive Machine Learning"
+title: "Abdul Kadir – Researcher in Deep Learning, XAI, and Interactive Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/
