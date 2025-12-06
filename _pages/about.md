@@ -7,31 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-## Md Abdul Kadir – Short Bio
+## Hello, I'm Abdul Kadir
 
-Md Abdul Kadir is a researcher at the German Research Center for Artificial Intelligence (DFKI), based at the Saarland Informatics Campus in Saarbrücken, Germany[^2][^3][^4]. His work centers on deep learning, explainable artificial intelligence (XAI), and interactive machine learning, with a particular focus on applications in healthcare and computer vision[^2][^4][^5].
+I'm a researcher at the German Research Center for Artificial Intelligence (DFKI) on the Saarland Informatics Campus in Saarbrücken, Germany, where I build transparent deep-learning systems for healthcare and human-AI collaboration. My work blends deep learning, explainable AI, and interactive machine learning so clinicians and domain experts can understand, challenge, and ultimately trust the models they rely on.
 
-Kadir holds a Master’s degree in Computer Science from Saarland University, where he specialized in machine learning, data science, and image processing[^3][^4]. He has been affiliated with DFKI since 2019, contributing to the Interactive Machine Learning department[^1][^4]. His research has received international recognition, including the Best Paper Award at the CD-MAKE 2021 conference for his work on explainable AI in medical imaging[^5].
+I spend most days inside DFKI's Interactive Machine Learning department, collaborating with Prof. Dr.-Ing. Daniel Sonntag and an interdisciplinary team of engineers, clinicians, and designers. My recent projects explore how to harmonize feature attributions across architectures and how scanpath analysis can unlock richer, gaze-driven interaction.
 
-Kadir’s recent publications address topics such as harmonizing feature attributions across deep learning architectures and the application of machine learning to scanpath analysis for gaze-based interaction[^7]. He collaborates closely with leading researchers in the field and is supervised by Prof. Dr.-Ing. Daniel Sonntag[^4][^5].
+### What I focus on
 
-<div style="text-align: center">⁂</div>
+- Transparent decision-support models for medical imaging and computer vision workflows.
+- Human-in-the-loop pipelines that transform expert feedback into fast model updates.
+- Multi-modal learning that fuses gaze data, images, and textual context for richer explanations.
 
-[^1]: https://de.linkedin.com/in/md-abdul-kadir-56913762/de  
-[^2]: https://scholar.google.com/citations?user=v43fkscAAAAJ  
-[^3]: https://www.xing.com/profile/MdAbdul_Kadir  
-[^4]: https://openreview.net/profile?id=~Md_Abdul_Kadir1  
-[^5]: https://www.dfki.de/en/web/news/bestpaper0  
-[^6]: https://saarland-informatics-campus.de/en/forschung-research/  
-[^7]: https://iml.dfki.de/publications/  
-[^8]: https://www.uni-saarland.de/en/research/profile/computer-science.html  
-[^9]: https://ai-in-medicine.dfki.de  
-[^10]: https://www.uni-saarland.de/en/computerscience.html  
-[^11]: https://iml.dfki.de/tag/md-abdul-kadir/  
-[^12]: https://www.eurekalert.org/news-releases/939625  
-[^13]: https://www.dfki.de/en/web/research/research-departments/institute-for-information-systems  
-[^14]: https://saarland-informatics-campus.de/en/forschung-research/research-institutes/  
-[^15]: https://www.dfki.de/en/web/about-us/locations-contact/saarbruecken  
-[^16]: https://www.dfki.de/en/web/about-us/governance/mission-statement  
-[^17]: https://www.dfki.de/en/web/research/research-departments/agents-and-simulated-reality  
-[^18]: https://www.dfki.de/~gebhard/
+### Selected highlights
+
+- Best Paper Award at CD-MAKE 2021 for research on explainable AI in medical imaging.
+- Lead author on studies advancing harmonized feature attribution and scanpath-driven interaction design.
+- Driving collaborations within DFKI’s Interactive Machine Learning department since 2019.
+
+### Currently exploring
+
+- Generative and interactive interfaces that let clinicians query models conversationally.
+- Evaluation frameworks that make XAI insights comparable across neural architectures.
+- Lightweight toolkits that bring trustworthy AI practices into day-to-day lab work.
+
+### Beyond research
+
+I earned my Master’s degree in Computer Science from Saarland University with a focus on machine learning, data science, and image processing, and I continue to mentor students stepping into this space. Outside the lab I enjoy exchanging ideas at research meetups, helping teams translate complex models into clear narratives, and supporting initiatives that keep responsible AI grounded in real-world impact.
