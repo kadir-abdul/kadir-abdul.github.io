@@ -58,7 +58,6 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   backdrop-filter: saturate(180%) blur(10px);
 }
 .masthead__menu-item a { font-weight: 500; font-size: .92rem; }
-.masthead__menu-item--lg a { font-weight: 700; font-size: 1rem; }
 .greedy-nav { background: transparent; }
 .greedy-nav a { color: var(--global-masthead-link-color); }
 .greedy-nav a:hover { color: var(--global-masthead-link-color-hover); text-decoration: none; }
@@ -198,3 +197,10 @@ html[data-theme="dark"] .page__content .btn-pill--solid { color: #0d1117; }
 /* Home: hero replaces the page title */
 .page__inner-wrap:has(.hero) .page__title { display: none; }
 .timeline__date { flex-basis: 7em; white-space: nowrap; }
+
+/* Nav: all items share one style; current page highlighted */
+.greedy-nav .visible-links .masthead__menu-item { margin-right: 0; }
+.greedy-nav .visible-links a { font-size: .92rem !important; font-weight: 500 !important; }
+.greedy-nav .visible-links li:first-child a { margin-left: 0; }
+.greedy-nav a.is-active { color: var(--global-link-color); }
+.greedy-nav a.is-active::before { transform: scaleX(1) !important; background: var(--global-link-color) !important; }
