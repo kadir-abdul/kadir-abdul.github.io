@@ -3,5 +3,7 @@ main:
     url: /publications/
   - title: "Research"
     url: /research/
+  - title: "Master Thesis"
+    url: /thesis/
   - title: "CV"
     url: /cv/

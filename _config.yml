@@ -212,6 +212,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  thesis:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -232,7 +235,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _thesis
+  - scope:
+      path: ""
+      type: thesis
+    values:
+      layout: single
+      author_profile: true
 
 
 # Sass/SCSS

@@ -47,4 +47,4 @@ author_profile: true
 
 ## Collaboration
 
-I supervise MSc theses and welcome collaborations on these topics. <a href="mailto:abdul.kadir@dfki.de">Email me</a>.
+I supervise MSc theses and welcome collaborations on these topics. See the <a href="/thesis/">open Master thesis topics</a> or <a href="mailto:abdul.kadir@dfki.de">email me</a>.
