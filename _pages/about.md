@@ -1,36 +1,37 @@
 ---
 permalink: /
-title: "Abdul Kadir – Researcher in Deep Learning, XAI, and Interactive Machine Learning"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-## Hello, I'm Abdul Kadir
+I am an AI researcher at the **German Research Center for Artificial Intelligence (DFKI)** in Saarbrücken and a PhD candidate at the **University of Oldenburg** (since 2022), advised by Prof. Daniel Sonntag. My research asks a simple question about large models: **what do they actually compute, and how can we fix them when they are wrong?**
 
-I'm a researcher at the German Research Center for Artificial Intelligence (DFKI) on the Saarland Informatics Campus in Saarbrücken, Germany, where I build transparent deep-learning systems for healthcare and human-AI collaboration. My work blends deep learning, explainable AI, and interactive machine learning so clinicians and domain experts can understand, challenge, and ultimately trust the models they rely on.
+I work on **mechanistic interpretability of vision–language models**, **robustness and backdoor security**, and **reliable foundation models for high-stakes domains** such as medicine and finance.
 
-I spend most days inside DFKI's Interactive Machine Learning department, collaborating with Prof. Dr.-Ing. Daniel Sonntag and an interdisciplinary team of engineers, clinicians, and designers. My recent projects explore how to harmonize feature attributions across architectures and how scanpath analysis can unlock richer, gaze-driven interaction.
+## News
 
-### What I focus on
+- **2026** — *Multimodal Concepts for Interpreting Large Vision–Language Models* accepted at **NeurIPS 2026 as a Spotlight**.
+- **2026** — *Backdoor Attacks Rerouted: Batch Normalization as a Sink for Adversarial Signals* accepted at **NeurIPS 2026**.
+- **2026** — *Beyond Heatmaps* accepted at the IJCAI-ECAI 2026 XAI Workshop.
+- **2025** — *AuditCopilot* presented at the NeurIPS 2025 Workshop on Generative AI in Finance.
+- **2025** — Concept-bottleneck multi-agent RAG for radiology reports at ECIR 2025 and ACM EICS 2025.
 
-- Transparent decision-support models for medical imaging and computer vision workflows.
-- Human-in-the-loop pipelines that transform expert feedback into fast model updates.
-- Multi-modal learning that fuses gaze data, images, and textual context for richer explanations.
+## Selected publications
 
-### Selected highlights
+- **Multimodal Concepts for Interpreting Large Vision–Language Models** <br>
+  **A. Kadir**, O. S. Bhatti, D. Sonntag · *NeurIPS 2026* · **Spotlight** · [project](https://mak-ta-reque.github.io/TGCL-LVLM/) · [code](https://github.com/Mak-Ta-Reque/TGCL-LVLM)
+- **Backdoor Attacks Rerouted: Batch Normalization as a Sink for Adversarial Signals** <br>
+  **A. Kadir**, T. Tran, D. Sonntag · *NeurIPS 2026* · [paper](https://openreview.net/forum?id=1YqAFIeJti) · [project](https://mak-ta-reque.github.io/flashbn_rebn/) · [code](https://github.com/Mak-Ta-Reque/flashbn_rebn)
+- **What Do Visual-Head Discovery Scores Actually Find?** <br>
+  **A. Kadir**, D. Sonntag · *arXiv 2026* · [paper](https://arxiv.org/abs/2610.13111)
+- **AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping** <br>
+  **A. Kadir**, S. S. M. Vasu, S. S. Nair, D. Sonntag · *NeurIPS 2025 Workshop* · [paper](https://arxiv.org/abs/2512.02726)
 
-- Best Paper Award at CD-MAKE 2021 for research on explainable AI in medical imaging.
-- Lead author on studies advancing harmonized feature attribution and scanpath-driven interaction design.
-- Driving collaborations within DFKI’s Interactive Machine Learning department since 2019.
+[All publications →](/publications/)
 
-### Currently exploring
+## Background
 
-- Generative and interactive interfaces that let clinicians query models conversationally.
-- Evaluation frameworks that make XAI insights comparable across neural architectures.
-- Lightweight toolkits that bring trustworthy AI practices into day-to-day lab work.
-
-### Beyond research
-
-I earned my Master’s degree in Computer Science from Saarland University with a focus on machine learning, data science, and image processing, and I continue to mentor students stepping into this space. Outside the lab I enjoy exchanging ideas at research meetups, helping teams translate complex models into clear narratives, and supporting initiatives that keep responsible AI grounded in real-world impact.
+M.Sc. in Computer Science, Saarland University · B.Sc. in Electrical and Electronic Engineering, BRAC University. Best Paper Award, CD-MAKE 2021.

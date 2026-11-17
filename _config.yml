@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Abdul Kadir"
 title_separator          : "-"
 name                     : &name "Abdul Kadir"
-description              : &description "personal description"
+description              : &description "Abdul Kadir — AI researcher at DFKI working on interpretability, model reliability, and robustness of foundation models."
 url                      : "https://kadir-abdul.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kadir-abdul/kadir-abdul.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Abdul Kadir"
   pronouns         : "he/him"  
-  bio              : "Researcher at DFKI, Saarland Informatics Campus. Focus: Deep Learning, XAI, Interactive ML. Passionate about AI and XAI for healthcare & vision."
+  bio              : "AI researcher @ DFKI · PhD candidate @ Uni Oldenburg. Interpretability, robustness & reliable foundation models."
   location         : "Germany"
   employer         : "DFKI"
   uri              : "https://www.dfki.de/web/ueber-uns/mitarbeiter/person/abka03"
@@ -76,16 +76,6 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
-  preprints:
-    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -93,7 +83,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -173,6 +162,10 @@ exclude:
   - assets/js/vendor
   - CHANGELOG
   - Capfile
+  - docker-compose.yaml
+  - Dockerfile
+  - README.md
+  - .devcontainer
   - config
   - Dockerfile
   - Gemfile
@@ -216,16 +209,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
   thesis:
@@ -235,17 +219,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -253,15 +226,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -271,23 +235,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _thesis
   - scope:
       path: ""

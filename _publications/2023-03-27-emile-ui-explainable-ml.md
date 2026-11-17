@@ -7,6 +7,7 @@ date: 2023-03-27
 venue: "IUI '23 Companion: Companion Proceedings of the 28th International Conference on Intelligent User Interfaces"
 paperurl: "https://doi.org/10.1145/3581754.3584131"
 doi: "10.1145/3581754.3584131"
+authors: "Abdul Kadir, Abdulrahman Mohamed Selim, Michael Barz, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Abdulrahman Mohamed Selim, Michael Barz, and Daniel Sonntag. (2023). "A User Interface for Explaining Machine Learning Model Explanations." IUI ''23 Companion, ACM, pp. 59-63.'
 excerpt: "Introduces EMILE-UI, an interactive interface that lets practitioners inspect and critique saliency-map explanations."
 ---

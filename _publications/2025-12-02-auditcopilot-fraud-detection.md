@@ -8,6 +8,7 @@ venue: "NeurIPS 2025 Workshop on Generative AI in Finance (Poster, San Diego loc
 paperurl: "https://neurips.cc/virtual/2025/loc/san-diego/132526"
 doi: "10.48550/arXiv.2512.02726"
 slidesurl: "https://arxiv.org/abs/2512.02726"
+authors: "Abdul Kadir, Sai Suresh Macharla Vasu, Sidharth S. Nair, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Sai Suresh Macharla Vasu, Sidharth S. Nair, and Daniel Sonntag. (2025). "AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping." Presented at the NeurIPS 2025 Workshop on Generative AI in Finance, San Diego.'
 excerpt: "Benchmarks LLaMA- and Gemma-based fraud detectors against journal entry tests, showing LLMs flag subtler double-entry anomalies with human-auditable rationales."
 ---

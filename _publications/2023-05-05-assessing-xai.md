@@ -7,6 +7,7 @@ date: 2023-05-05
 venue: "Engineering Archive (engrXiv)"
 paperurl: "https://doi.org/10.31224/2989"
 doi: "10.31224/2989"
+authors: "Abdul Kadir, Amir Mosavi, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Amir Mosavi, and Daniel Sonntag. (2023). "Assessing XAI: Unveiling Evaluation Metrics for Local Explanation, Taxonomies, Key Concepts, and Practical Applications." Engineering Archive, doi:10.31224/2989.'
 excerpt: "Systematic PRISMA review that organizes evaluation metrics for local explanation techniques into complementary taxonomies."
 ---

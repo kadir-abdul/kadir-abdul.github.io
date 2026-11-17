@@ -3,10 +3,12 @@ title: "Multimodal Concepts for Interpreting Large Vision–Language Models"
 collection: publications
 category: conferences
 permalink: /publication/2026-tgcl
-date: 2026-12-01
-venue: "Advances in Neural Information Processing Systems (NeurIPS 2026) — Spotlight"
-paperurl: "https://mak-ta-reque.github.io/TGCL-LVLM/"
+date: 2026-12-03
+highlight: "Spotlight"
+venue: "Advances in Neural Information Processing Systems (NeurIPS 2026)"
+projecturl: "https://mak-ta-reque.github.io/TGCL-LVLM/"
 codeurl: "https://github.com/Mak-Ta-Reque/TGCL-LVLM"
+authors: "Abdul Kadir, Omair Shahzad Bhatti, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Omair Shahzad Bhatti, and Daniel Sonntag. (2026). "Multimodal Concepts for Interpreting Large Vision–Language Models." In Advances in Neural Information Processing Systems (NeurIPS).'
 excerpt: "**Spotlight at NeurIPS 2026.** Text-Guided Concept Learning (TGCL) extracts concept vectors from large vision–language models without token-level supervision."
 ---

@@ -7,6 +7,7 @@ date: 2024-03-25
 venue: "arXiv (cs.LG)"
 paperurl: "https://arxiv.org/abs/2403.16569"
 doi: "10.48550/arXiv.2403.16569"
+authors: "Abdul Kadir, Gowtham Krishna Addluri, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, GowthamKrishna Addluri, and Daniel Sonntag. (2024). "Revealing Vulnerabilities of Neural Networks in Parameter Learning and Defense Against Explanation-Aware Backdoors." arXiv:2403.16569 [cs.LG].'
 excerpt: "Analyzes how explanation-aware backdoor attacks alter CNN parameters and presents a lightweight defense that restores saliency fidelity."
 ---

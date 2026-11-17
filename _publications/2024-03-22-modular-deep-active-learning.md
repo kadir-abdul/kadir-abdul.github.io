@@ -7,6 +7,7 @@ date: 2024-03-22
 venue: "arXiv (cs.CV) / DFKI Technical Report"
 paperurl: "https://arxiv.org/abs/2403.15143"
 doi: "10.48550/arXiv.2403.15143"
+authors: "Abdul Kadir, Hasan Md Tusfiqur Alam, Pascale Maul, Hans-Jürgen Profitlich, Moritz Wolf, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Hasan Md Tusfiqur Alam, Pascale Maul, Hans-Jürgen Profitlich, Moritz Wolf, and Daniel Sonntag. (2024). "Modular Deep Active Learning Framework for Image Annotation: A Technical Report for the Ophthalmo-AI Project." arXiv:2403.15143 [cs.CV].'
 excerpt: "Presents MedDeepCycleAL, a configurable active-learning loop with annotation tooling for ophthalmology image segmentation."
 ---

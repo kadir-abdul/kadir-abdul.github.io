@@ -7,6 +7,7 @@ date: 2024-06-12
 venue: "KI – Künstliche Intelligenz"
 paperurl: "https://doi.org/10.1007/s13218-024-00849-6"
 doi: "10.1007/s13218-024-00849-6"
+authors: "Abdul Kadir, Hasan Md Tusfiqur Alam, Devansh Srivastav, Hans-Jürgen Profitlich, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Hasan Md Tusfiqur Alam, Devansh Srivastav, Hans-Jürgen Profitlich, and Daniel Sonntag. (2024). "Partial Image Active Annotation (PIAA): An Efficient Active Learning Technique Using Edge Information in Limited Data Scenarios." KI – Künstliche Intelligenz.'
 excerpt: "Shows how focusing annotation effort on edge-informed regions accelerates training of medical segmentation models when labels are scarce."
 ---

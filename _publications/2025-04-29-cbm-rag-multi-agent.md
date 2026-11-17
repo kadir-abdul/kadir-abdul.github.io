@@ -7,6 +7,7 @@ date: 2025-04-29
 venue: "ACM EICS 2025 (Demonstration)"
 paperurl: "https://arxiv.org/abs/2504.20898"
 doi: "10.48550/arXiv.2504.20898"
+authors: "Hasan Md Tusfiqur Alam, Devansh Srivastav, Abdulrahman Mohamed Selim, Abdul Kadir, Md Moktadirul Hoque Shuvo, and Daniel Sonntag"
 citation: 'Hasan Md Tusfiqur Alam, Devansh Srivastav, Abdulrahman Mohamed Selim, Md Abdul Kadir, Md Moktadirul Hoque Shuvo, and Daniel Sonntag. (2025). "CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models." ACM Symposium on Engineering Interactive Computing Systems (EICS 2025).'
 excerpt: "Live demo of a radiology reporting assistant where multi-agent RAG explanations stay aligned with concept bottleneck classifications."
 ---

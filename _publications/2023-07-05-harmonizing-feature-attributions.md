@@ -7,6 +7,7 @@ date: 2023-07-05
 venue: "German Conference on Artificial Intelligence (KI 2023)"
 paperurl: "https://arxiv.org/abs/2307.02150"
 doi: "10.48550/arXiv.2307.02150"
+authors: "Abdul Kadir, Gowtham Krishna Addluri, and Daniel Sonntag"
 citation: 'Md Abdul Kadir, Gowtham Krishna Addluri, and Daniel Sonntag. (2023). "Harmonizing Feature Attributions Across Deep Learning Architectures: Enhancing Interpretability and Consistency." In KI 2023: Advances in Artificial Intelligence, Springer.'
 excerpt: "Studies how attribution maps transfer across CNN and ViT architectures trained on the same data and proposes strategies for making them consistent."
 ---

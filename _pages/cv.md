@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
@@ -47,7 +47,7 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. Candidate in Computer Science**, Oldenburg University, Oldenburg, Germany (2020–Present)  
+- **Ph.D. Candidate in Computer Science**, University of Oldenburg, Oldenburg, Germany (2022–Present)  
   Focus: Explainable Deep Learning
 - **M.Sc. in Computer Science**, Saarland University, Saarbrücken, Germany (2016–2020)  
   Focus: Machine Learning and Artificial Intelligence

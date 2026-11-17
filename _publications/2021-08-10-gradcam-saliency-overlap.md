@@ -7,6 +7,7 @@ date: 2021-08-10
 venue: "International Cross-Domain Conference for Machine Learning and Knowledge Extraction (CD-MAKE 2021)"
 paperurl: "https://doi.org/10.1007/978-3-030-84060-0_16"
 doi: "10.1007/978-3-030-84060-0_16"
+authors: "Fabrizio Nunnari, Abdul Kadir, and Daniel Sonntag"
 citation: 'Fabrizio Nunnari, Md Abdul Kadir, and Daniel Sonntag. (2021). "On the Overlap Between Grad-CAM Saliency Maps and Explainable Visual Features in Skin Cancer Images." In Machine Learning and Knowledge Extraction (CD-MAKE 2021), Springer.'
 excerpt: "Quantifies how Grad-CAM saliency maps align with dermatologist-defined visual cues on ISIC dermoscopy images."
 ---

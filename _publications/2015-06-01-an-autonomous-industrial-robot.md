@@ -7,6 +7,7 @@ date: 2015-06-01
 venue: "IEEE International Conference on Informatics, Electronics & Vision (ICIEV)"
 paperurl: "https://doi.org/10.1109/ICIEV.2015.7333984"
 doi: "10.1109/ICIEV.2015.7333984"
+authors: "Abdul Kadir, Md Belayet Chowdhury, Jaber AL Rashid, Shifur Rahman Shakil, and Md Khalilur Rhaman"
 citation: 'Md Abdul Kadir, Md Belayet Chowdhury, Jaber AL Rashid, Shifur Rahman Shakil, and Md Khalilur Rhaman. (2015). "An autonomous industrial robot for loading and unloading goods." In 2015 International Conference on Informatics, Electronics & Vision (ICIEV). IEEE.'
 excerpt: "Introduces a microcontroller-driven manipulator that automates heavy loading/unloading workflows on factory floors."
 ---

@@ -7,6 +7,7 @@ date: 2024-12-20
 venue: "European Conference on Information Retrieval (ECIR 2025), LNCS 15574"
 paperurl: "https://arxiv.org/abs/2412.16086"
 doi: "10.48550/arXiv.2412.16086"
+authors: "Hasan Md Tusfiqur Alam, Devansh Srivastav, Abdul Kadir, and Daniel Sonntag"
 citation: 'Hasan Md Tusfiqur Alam, Devansh Srivastav, Md Abdul Kadir, and Daniel Sonntag. (2025). "Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG." ECIR 2025, LNCS 15574, Springer.'
 excerpt: "Combines concept bottleneck models with a multi-agent retrieval-augmented generation workflow to produce faithful chest X-ray reports."
 ---
