@@ -13,7 +13,7 @@ redirect_from:
   <li><span class="timeline__date">2020 – now</span><div><strong>Researcher</strong> · German Research Center for Artificial Intelligence (DFKI), Saarbrücken<br><span class="muted">Interpretability and robustness of vision and language models; reliable AI for healthcare and finance; ML pipelines from research to deployment.</span></div></li>
   <li><span class="timeline__date">2018 – 2020</span><div><strong>Research Assistant</strong> · DFKI, Saarbrücken<br><span class="muted">NLP (co-reference resolution, custom PyTorch architectures) and model-visualisation tooling.</span></div></li>
   <li><span class="timeline__date">2016 – 2018</span><div><strong>Research Assistant</strong> · IFOMIS, Saarland University<br><span class="muted">RESTful services for medical data integration.</span></div></li>
-  <li><span class="timeline__date">2015 – 2016</span><div><strong>Data Scientist</strong> · Radiant Export Import Enterprise, Dhaka</div></li>
+  <li><span class="timeline__date">2015 – 2016</span><div><strong>Technical Service Officer</strong> · Radiant Export Import Enterprise, Dhaka</div></li>
 </ul>
 
 ## Education
