@@ -41,7 +41,7 @@ redirect_from:
     <a class="pub-title" href="/publication/2026-tgcl">Multimodal Concepts for Interpreting Large Vision–Language Models</a>
     <div class="pub-authors"><strong>Abdul Kadir</strong>, Omair Shahzad Bhatti, Daniel Sonntag</div>
     <div class="pub-venue"><em>NeurIPS 2026</em> <span class="pub-badge">Spotlight</span></div>
-    <div class="pub-links"><a href="https://mak-ta-reque.github.io/TGCL-LVLM/">Project</a> <a href="https://github.com/Mak-Ta-Reque/TGCL-LVLM">Code</a></div>
+    <div class="pub-links"><a href="https://openreview.net/forum?id=JD1sWCq2rf">Paper</a> <a href="https://mak-ta-reque.github.io/TGCL-LVLM/">Project</a> <a href="https://github.com/Mak-Ta-Reque/TGCL-LVLM">Code</a></div>
   </li>
   <li class="pub-item">
     <a class="pub-title" href="/publication/2026-flashbn-rebn">Backdoor Attacks Rerouted: Batch Normalization as a Sink for Adversarial Signals</a>
