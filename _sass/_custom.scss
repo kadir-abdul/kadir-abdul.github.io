@@ -129,3 +129,72 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .pub-title:hover, .pub-links a:hover { text-decoration: none !important; }
 .pub-title:hover { color: var(--global-link-color) !important; }
 .pub-title, .pub-links a, .archive__item-title a { text-decoration: none !important; }
+
+/* ---------- Shared components ---------- */
+.muted { color: var(--global-text-color-light); font-size: .9em; }
+
+.hero { padding: .5em 0 1.5em; border-bottom: 1px solid var(--global-border-color); margin-bottom: .5em; }
+.hero__eyebrow {
+  font-size: .78rem !important; font-weight: 600; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--global-link-color) !important; margin: 0 0 .6em;
+}
+.hero__title { font-size: 1.9rem; line-height: 1.25; font-weight: 750; margin: 0 0 .6em; letter-spacing: -.025em; }
+@media (max-width: 600px) { .hero__title { font-size: 1.5rem; } }
+.hero__lead { font-size: 1.05rem; color: var(--global-text-color-light) !important; }
+.hero__cta { margin-top: 1.2em; display: flex; flex-wrap: wrap; gap: .5em; }
+.page__content .hero + h2, .page__content h2:first-child { margin-top: 1.4em; }
+
+.chips { display: flex; flex-wrap: wrap; gap: .45em; margin: 1em 0; }
+.chip {
+  font-size: .8rem; font-weight: 500; padding: .25em .8em; border-radius: 999px;
+  background: var(--accent-soft); color: var(--global-link-color);
+}
+
+.page__content .btn-pill {
+  display: inline-block; font-size: .88rem; font-weight: 600; padding: .45em 1.1em;
+  border-radius: 999px; border: 1px solid var(--global-dark-border-color);
+  color: var(--global-text-color); text-decoration: none !important;
+  transition: border-color .15s ease, background .15s ease;
+}
+.page__content .btn-pill:hover { border-color: var(--global-link-color); color: var(--global-link-color); }
+.page__content .btn-pill--solid { background: var(--global-link-color); border-color: var(--global-link-color); color: #fff; }
+html[data-theme="dark"] .page__content .btn-pill--solid { color: #0d1117; }
+.page__content .btn-pill--solid:hover { color: #fff; filter: brightness(1.1); }
+
+.page__content ul.timeline { list-style: none; margin: 0; padding: 0 0 0 1.1em; border-left: 2px solid var(--global-border-color); }
+.page__content ul.timeline li { position: relative; display: flex; gap: 1em; margin: 0 0 1em; }
+.page__content ul.timeline li::before {
+  content: ""; position: absolute; left: calc(-1.1em - 6px); top: .5em;
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--global-bg-color); border: 2px solid var(--global-link-color);
+}
+.timeline__date {
+  flex: 0 0 6.5em; font-size: .8rem; font-weight: 600; padding-top: .2em;
+  color: var(--global-text-color-light); font-variant-numeric: tabular-nums;
+}
+@media (max-width: 600px) {
+  .page__content ul.timeline li { flex-direction: column; gap: .1em; }
+  .timeline__date { flex: none; }
+}
+
+.card-grid { display: grid; grid-template-columns: 1fr; gap: 1em; margin: 1.2em 0; }
+.card-grid--2 { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.card {
+  background: var(--card-bg); border: 1px solid var(--global-border-color);
+  border-radius: 14px; padding: 1.1em 1.3em;
+  transition: border-color .15s ease, transform .15s ease;
+}
+.card:hover { border-color: var(--global-link-color); }
+.card h3 { margin: .2em 0 .4em; font-size: 1.08rem; font-weight: 650; }
+.card p { font-size: .92rem; margin: 0 0 .6em; }
+.card ul { margin: .4em 0 0; padding-left: 1.1em; font-size: .92rem; }
+.card__num { font-size: .75rem; font-weight: 700; letter-spacing: .08em; color: var(--global-link-color); }
+.page__content a.card--link { display: block; color: var(--global-text-color); text-decoration: none !important; }
+.card--link:hover { transform: translateY(-2px); }
+.card--link h3 { color: var(--global-link-color); }
+
+.page__footer-copyright { font-size: .82rem; text-align: center; padding: 1.5em 0; }
+
+/* Home: hero replaces the page title */
+.page__inner-wrap:has(.hero) .page__title { display: none; }
+.timeline__date { flex-basis: 7em; white-space: nowrap; }

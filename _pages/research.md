@@ -5,35 +5,46 @@ permalink: /research/
 author_profile: true
 ---
 
-My goal is to make foundation models **inspectable, correctable, and robust**: to move from "the model was wrong" to "here is the mechanism that made it wrong, and here is a minimal fix."
+<p class="hero__lead">My goal is to make foundation models <strong>inspectable, correctable, and robust</strong>: to move from "the model was wrong" to "here is the mechanism that made it wrong, and here is a minimal fix."</p>
 
-## 1. Interpretability of vision–language models
-
-How do large vision–language models represent visual concepts, and which components are responsible for their behaviour?
-
-- **Concept discovery without dense labels.** Text-guided concept learning extracts sparse, faithful concept vectors from patch-level activations of LVLMs. *([NeurIPS 2026 Spotlight](/publication/2026-tgcl))*
-- **Auditing interpretability tools.** Testing what popular "visual head" discovery scores really measure, and where random controls and attention-source confounds mislead. *([arXiv 2026](/publication/2026-visual-head-discovery))*
-- **Beyond saliency maps.** Unsupervised concept graphs that explain predictions as structured reasoning rather than heatmaps. *([IJCAI-ECAI XAI 2026](/publication/2026-beyond-heatmaps))*
-
-## 2. Robustness and backdoor security
-
-Where do adversarial behaviours live inside a network, and can we remove them cheaply?
-
-- **Localising backdoors.** In BN-based networks, backdoor training is absorbed mainly by Batch Normalization. FlashBN (training-free) and ReBN (few-shot) exploit this to neutralise attacks. *([NeurIPS 2026](/publication/2026-flashbn-rebn))*
-- **Attacks on explanations.** Explanation-aware backdoors that manipulate attribution maps, and defenses against them. *([arXiv 2024](/publication/2024-explanation-aware-backdoors))*
-
-## 3. Reliable models for high-stakes domains
-
-Deploying foundation models where errors are expensive, with explanations experts can check.
-
-- **Finance and auditing.** LLM-based fraud detection in double-entry bookkeeping with auditable rationales. *([NeurIPS 2025 Workshop](/publication/2025-auditcopilot))*
-- **Medical imaging.** Concept-bottleneck, multi-agent RAG for interpretable radiology reports; active learning for OCT segmentation. *(ECIR 2025, EICS 2025, MICCAI 2023)*
+<div class="card-grid">
+  <div class="card">
+    <span class="card__num">01</span>
+    <h3>Interpretability of vision–language models</h3>
+    <p>How do large VLMs represent visual concepts, and which components drive their behaviour?</p>
+    <ul>
+      <li><strong>Concept discovery without dense labels.</strong> Text-guided concept learning extracts sparse, faithful concept vectors from patch-level activations. <a href="/publication/2026-tgcl">NeurIPS 2026 Spotlight</a></li>
+      <li><strong>Auditing interpretability tools.</strong> What "visual head" discovery scores really measure, and where random controls mislead. <a href="/publication/2026-visual-head-discovery">arXiv 2026</a></li>
+      <li><strong>Beyond saliency maps.</strong> Unsupervised concept graphs that explain predictions as structured reasoning. <a href="/publication/2026-beyond-heatmaps">IJCAI-ECAI XAI 2026</a></li>
+    </ul>
+  </div>
+  <div class="card">
+    <span class="card__num">02</span>
+    <h3>Robustness and backdoor security</h3>
+    <p>Where do adversarial behaviours live inside a network, and can we remove them cheaply?</p>
+    <ul>
+      <li><strong>Localising backdoors.</strong> Backdoor training is absorbed mainly by Batch Normalization; FlashBN (training-free) and ReBN (few-shot) exploit this to neutralise attacks. <a href="/publication/2026-flashbn-rebn">NeurIPS 2026</a></li>
+      <li><strong>Attacks on explanations.</strong> Explanation-aware backdoors that manipulate attribution maps, and defenses against them. <a href="/publication/2024-explanation-aware-backdoors">arXiv 2024</a></li>
+    </ul>
+  </div>
+  <div class="card">
+    <span class="card__num">03</span>
+    <h3>Reliable models for high-stakes domains</h3>
+    <p>Deploying foundation models where errors are expensive, with explanations experts can check.</p>
+    <ul>
+      <li><strong>Finance and auditing.</strong> LLM-based fraud detection in double-entry bookkeeping with auditable rationales. <a href="/publication/2025-auditcopilot">NeurIPS 2025 Workshop</a></li>
+      <li><strong>Medical imaging.</strong> Concept-bottleneck multi-agent RAG for interpretable radiology reports; active learning for OCT segmentation. ECIR 2025 · EICS 2025 · MICCAI 2023</li>
+    </ul>
+  </div>
+</div>
 
 ## Open source
 
-- [TGCL-LVLM](https://github.com/Mak-Ta-Reque/TGCL-LVLM): concept learning for vision–language models
-- [FlashBN / ReBN](https://github.com/Mak-Ta-Reque/flashbn_rebn): backdoor defenses via Batch Normalization · [models](https://huggingface.co/abka03/flashbn_rebn-models)
+<div class="card-grid card-grid--2">
+  <a class="card card--link" href="https://github.com/Mak-Ta-Reque/TGCL-LVLM"><h3>TGCL-LVLM</h3><p>Concept learning for vision–language models.</p></a>
+  <a class="card card--link" href="https://github.com/Mak-Ta-Reque/flashbn_rebn"><h3>FlashBN / ReBN</h3><p>Backdoor defenses via Batch Normalization, with released models.</p></a>
+</div>
 
 ## Collaboration
 
-I supervise MSc theses on these topics. See the [open thesis topics](/thesis/) or [email me](mailto:abdul.kadir@dfki.de).
+I supervise MSc theses and welcome collaborations on these topics. <a href="mailto:abdul.kadir@dfki.de">Email me</a>.

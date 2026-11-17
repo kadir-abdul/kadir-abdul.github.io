@@ -1,61 +1,52 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-
+  - /resume
 ---
 
-{% include base_path %}
+## Experience
 
-## Practical skills
-- **Coding:** Python, Java, SQL, Go, C, JavaScript, MATLAB, R
-- **AI frameworks:** Hugging Face Transformers, TensorFlow, PyTorch, CNTK, OpenCV, scikit-learn
-- **Data tools:** SQL, Pillow, NumPy, Matplotlib, Dash, Jupyter Notebook
-- **Microservices & version control:** AWS, GCP, SLURM, IBM Cloud, Docker, Kubernetes, Git, CI/CD, MLflow, Kubeflow
-- **Office & documentation:** Excel, Word, PowerPoint, LaTeX
-
-## Experiences
-
-### Researcher — German Research Center for Artificial Intelligence (DFKI), Saarbrücken (2020–Present)
-- Lead explainable AI initiatives across language and vision models with a focus on healthcare deployment.
-- Build and maintain ML DevOps pipelines that keep experimental and production systems synchronized.
-- Deliver state-of-the-art tools including skin cancer detection, automatic shift planning, eye disease detection, and ML model explainers.
-
-### Research Assistant — German Research Center for Artificial Intelligence (2018–2020)
-- Advanced NLP projects such as co-reference resolution and custom PyTorch architectures.
-- Designed visualization workflows to help stakeholders interpret complex model behavior.
-
-### Research Assistant — IFOMIS, Saarland University (2016–2018)
-- Shipped RESTful services for medical data integration.
-- Built a Java-based Git client adopted by internal teams.
-
-### Data Scientist — Radiant Export Import Enterprise, Dhaka (2015–2016)
-- Drove sales analytics initiatives to surface actionable retail insights.
-
-### Miscellaneous roles — Saarland University & BRAC University (2016–2018)
-- Served as a programming tutor, mentoring students across software engineering and AI fundamentals.
-
-## Project acquisition
-
-### Active Learning in the Cloud — Google Cloud & DFKI Interactive Machine Learning Group (2023–2024)
-- Developed an active learning backend on Google Cloud Platform for OCT segmentation workflows. Project link: [End-to-end active learning framework news](https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/).
-
-### Explainable AI for Tax Fraud Detection — Talentik GmbH (Software Campus) & DFKI (2024–2026)
-- Building anomaly-detection tooling for financial accounting data with a strong explainability layer. Funding link: [DFKI project page](https://www.dfki.de/web/forschung/projekte-publikationen/projekt/iuml).
+<ul class="timeline">
+  <li><span class="timeline__date">2020 – now</span><div><strong>Researcher</strong> · German Research Center for Artificial Intelligence (DFKI), Saarbrücken<br><span class="muted">Interpretability and robustness of vision and language models; reliable AI for healthcare and finance; ML pipelines from research to deployment.</span></div></li>
+  <li><span class="timeline__date">2018 – 2020</span><div><strong>Research Assistant</strong> · DFKI, Saarbrücken<br><span class="muted">NLP (co-reference resolution, custom PyTorch architectures) and model-visualisation tooling.</span></div></li>
+  <li><span class="timeline__date">2016 – 2018</span><div><strong>Research Assistant</strong> · IFOMIS, Saarland University<br><span class="muted">RESTful services for medical data integration.</span></div></li>
+  <li><span class="timeline__date">2015 – 2016</span><div><strong>Data Scientist</strong> · Radiant Export Import Enterprise, Dhaka</div></li>
+</ul>
 
 ## Education
 
-- **Ph.D. Candidate in Computer Science**, University of Oldenburg, Oldenburg, Germany (2022–Present)  
-  Focus: Explainable Deep Learning
-- **M.Sc. in Computer Science**, Saarland University, Saarbrücken, Germany (2016–2020)  
-  Focus: Machine Learning and Artificial Intelligence
-- **B.Sc. in Electrical and Electronic Engineering**, BRAC University, Dhaka, Bangladesh (2011–2015)  
-  Focus: Robotics and Automation
+<ul class="timeline">
+  <li><span class="timeline__date">2022 – now</span><div><strong>Ph.D. in Computer Science</strong> · University of Oldenburg, Germany<br><span class="muted">Explainable and reliable deep learning · Advisor: Prof. Daniel Sonntag</span></div></li>
+  <li><span class="timeline__date">2016 – 2020</span><div><strong>M.Sc. in Computer Science</strong> · Saarland University, Germany<br><span class="muted">Machine learning and artificial intelligence</span></div></li>
+  <li><span class="timeline__date">2011 – 2015</span><div><strong>B.Sc. in Electrical and Electronic Engineering</strong> · BRAC University, Bangladesh<br><span class="muted">Robotics and automation</span></div></li>
+</ul>
 
-Service and leadership
-======
-* Mentor for programming courses at Saarland University and BRAC University, guiding students through machine learning and software projects.
-* Liaison between DFKI’s Interactive Machine Learning group and industry partners to translate research into deployable tools.
-* Active contributor to cross-lab initiatives on trustworthy and explainable AI practices.
+## Projects & funding
+
+<div class="card-grid card-grid--2">
+  <div class="card"><span class="card__num">2024 – 2026</span><h3>Explainable AI for Tax Fraud Detection</h3><p>Software Campus project with Talentik GmbH: anomaly detection on financial accounting data with an explainability layer. <a href="https://www.dfki.de/web/forschung/projekte-publikationen/projekt/iuml">Project page</a></p></div>
+  <div class="card"><span class="card__num">2023 – 2024</span><h3>Active Learning in the Cloud</h3><p>Google Cloud &amp; DFKI: active-learning backend on GCP for OCT segmentation. <a href="https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/">News</a></p></div>
+</div>
+
+## Honors
+
+<ul class="timeline">
+  <li><span class="timeline__date">2026</span><div>NeurIPS 2026 Spotlight: <em>Multimodal Concepts for Interpreting Large Vision–Language Models</em></div></li>
+  <li><span class="timeline__date">2021</span><div>Best Paper Award, CD-MAKE 2021</div></li>
+</ul>
+
+## Skills
+
+<div class="chips">
+  <span class="chip">Python</span><span class="chip">PyTorch</span><span class="chip">Hugging Face</span><span class="chip">TensorFlow</span><span class="chip">scikit-learn</span><span class="chip">OpenCV</span><span class="chip">SLURM / HPC</span><span class="chip">Docker</span><span class="chip">Kubernetes</span><span class="chip">GCP</span><span class="chip">AWS</span><span class="chip">MLflow</span><span class="chip">Git &amp; CI/CD</span><span class="chip">LaTeX</span>
+</div>
+
+## Service & teaching
+
+<ul class="timeline">
+  <li><span class="timeline__date">ongoing</span><div>Supervision of MSc theses at DFKI / University of Oldenburg</div></li>
+  <li><span class="timeline__date">2016 – 2018</span><div>Programming tutor, Saarland University and BRAC University</div></li>
+</ul>
