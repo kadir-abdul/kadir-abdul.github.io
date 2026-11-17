@@ -15,6 +15,7 @@ author_profile: true
     <ul>
       <li><strong>Concept discovery without dense labels.</strong> Text-guided concept learning extracts sparse, faithful concept vectors from patch-level activations. <a href="/publication/2026-tgcl">NeurIPS 2026 Spotlight</a></li>
       <li><strong>Auditing interpretability tools.</strong> What "visual head" discovery scores really measure, and where random controls mislead. <a href="/publication/2026-visual-head-discovery">arXiv 2026</a></li>
+      <li><strong>Localising knowledge in LLMs.</strong> A handful of causally validated attention heads explain how LLMs retrieve network facts; single neurons do not. <a href="/publication/2026-llm-network-retrieval-heads">arXiv 2026</a></li>
       <li><strong>Beyond saliency maps.</strong> Unsupervised concept graphs that explain predictions as structured reasoning. <a href="/publication/2026-beyond-heatmaps">IJCAI-ECAI XAI 2026</a></li>
     </ul>
   </div>
