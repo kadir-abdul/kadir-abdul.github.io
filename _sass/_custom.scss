@@ -204,3 +204,8 @@ html[data-theme="dark"] .page__content .btn-pill--solid { color: #0d1117; }
 .greedy-nav .visible-links li:first-child a { margin-left: 0; }
 .greedy-nav a.is-active { color: var(--global-link-color); }
 .greedy-nav a.is-active::before { transform: scaleX(1) !important; background: var(--global-link-color) !important; }
+
+/* Award badges */
+.pub-badge--award { background: #fef3c7 !important; color: #92400e !important; }
+html[data-theme="dark"] .pub-badge--award { background: rgba(251, 191, 36, .16) !important; color: #fcd34d !important; }
+.pub-badge--award i { font-size: .85em; margin-right: .15em; }

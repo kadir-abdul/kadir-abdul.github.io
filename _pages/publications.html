@@ -22,7 +22,7 @@ author_profile: true
   <li class="pub-item">
     <a class="pub-title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
     {% if post.authors %}<div class="pub-authors">{{ post.authors | replace: "Abdul Kadir", "<strong>Abdul Kadir</strong>" }}</div>{% endif %}
-    <div class="pub-venue"><em>{{ post.venue }}</em>{% if post.highlight %} <span class="pub-badge">{{ post.highlight }}</span>{% endif %}</div>
+    <div class="pub-venue"><em>{{ post.venue }}</em>{% if post.highlight %} <span class="pub-badge">{{ post.highlight }}</span>{% endif %}{% for a in post.awards %} <span class="pub-badge pub-badge--award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ a }}</span>{% endfor %}</div>
     <div class="pub-links">
       {% assign links = "" | split: "" %}
       {% if post.paperurl %}{% capture l %}<a href="{{ post.paperurl }}">Paper</a>{% endcapture %}{% assign links = links | push: l %}{% endif %}

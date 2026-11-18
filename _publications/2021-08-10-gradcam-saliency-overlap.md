@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2021-gradcam-explainable-features
 date: 2021-08-10
+awards: ["Best Paper Award"]
 venue: "International Cross-Domain Conference for Machine Learning and Knowledge Extraction (CD-MAKE 2021)"
 paperurl: "https://doi.org/10.1007/978-3-030-84060-0_16"
 doi: "10.1007/978-3-030-84060-0_16"

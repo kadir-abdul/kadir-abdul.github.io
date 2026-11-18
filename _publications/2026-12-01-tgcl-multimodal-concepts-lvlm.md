@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-tgcl
 date: 2026-12-03
-highlight: "Spotlight"
+awards: ["Spotlight"]
 venue: "Advances in Neural Information Processing Systems (NeurIPS 2026)"
 paperurl: "https://openreview.net/forum?id=JD1sWCq2rf"
 projecturl: "https://mak-ta-reque.github.io/TGCL-LVLM/"
