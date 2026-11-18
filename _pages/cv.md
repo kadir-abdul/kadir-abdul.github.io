@@ -31,11 +31,13 @@ redirect_from:
   <div class="card"><span class="card__num">2023 – 2024</span><h3>Active Learning in the Cloud</h3><p>Google Cloud &amp; DFKI: active-learning backend on GCP for OCT segmentation. <a href="https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/">News</a></p></div>
 </div>
 
-## Honors
+## Awards
 
 <ul class="timeline">
-  <li><span class="timeline__date">2026</span><div>NeurIPS 2026 Spotlight: <em>Multimodal Concepts for Interpreting Large Vision–Language Models</em></div></li>
-  <li><span class="timeline__date">2021</span><div>Best Paper Award, CD-MAKE 2021</div></li>
+  <li><span class="timeline__date">2026</span><div><strong>Top Reviewer</strong>, NeurIPS 2026 · <a href="/files/top-reviewer-award.pdf">Certificate (PDF)</a></div></li>
+  <li><span class="timeline__date">2026</span><div><strong>Spotlight</strong>, NeurIPS 2026 · <em>Multimodal Concepts for Interpreting Large Vision–Language Models</em></div></li>
+  <li><span class="timeline__date">2023</span><div><strong>Best Demo Award</strong>, ACM IUI 2023 · <em><a href="https://dl.acm.org/doi/abs/10.1145/3581754.3584131">A User Interface for Explaining Machine Learning Model Explanations</a></em></div></li>
+  <li><span class="timeline__date">2021</span><div><strong>Best Paper Award</strong>, CD-MAKE 2021</div></li>
 </ul>
 
 ## Skills
@@ -47,6 +49,7 @@ redirect_from:
 ## Service & teaching
 
 <ul class="timeline">
+  <li><span class="timeline__date">2026</span><div>Reviewer, NeurIPS 2026 (Top Reviewer)</div></li>
   <li><span class="timeline__date">ongoing</span><div>Supervision of MSc theses at DFKI / University of Oldenburg</div></li>
   <li><span class="timeline__date">2016 – 2018</span><div>Programming tutor, Saarland University and BRAC University</div></li>
 </ul>

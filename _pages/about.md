@@ -34,6 +34,15 @@ redirect_from:
   <li><span class="timeline__date">2025</span><div>Concept-bottleneck multi-agent RAG for radiology reports at ECIR 2025 and ACM EICS 2025</div></li>
 </ul>
 
+## Awards
+
+<ul class="timeline">
+  <li><span class="timeline__date">2026</span><div><strong>Top Reviewer</strong>, NeurIPS 2026 · <a href="/files/top-reviewer-award.pdf">Certificate</a></div></li>
+  <li><span class="timeline__date">2026</span><div><strong>Spotlight</strong>, NeurIPS 2026</div></li>
+  <li><span class="timeline__date">2023</span><div><strong>Best Demo Award</strong>, ACM IUI 2023</div></li>
+  <li><span class="timeline__date">2021</span><div><strong>Best Paper Award</strong>, CD-MAKE 2021</div></li>
+</ul>
+
 ## Selected publications
 
 <ul class="pub-list">
