@@ -28,11 +28,14 @@ redirect_from:
 ## News
 
 <ul class="timeline">
+  <li><span class="timeline__date">2026</span><div>Recognized as <strong>Top Reviewer</strong> at NeurIPS 2026</div></li>
+  <li><span class="timeline__date">2026</span><div>New preprint: <a href="/publication/2026-llm-network-retrieval-heads"><em>Where Do LLMs Retrieve Network Information?</em></a></div></li>
   <li><span class="timeline__date">2026</span><div><em>Multimodal Concepts for Interpreting Large Vision–Language Models</em> accepted at <strong>NeurIPS 2026</strong> <span class="pub-badge pub-badge--award"><i class="fas fa-trophy" aria-hidden="true"></i> Spotlight</span></div></li>
   <li><span class="timeline__date">2026</span><div><em>Backdoor Attacks Rerouted: Batch Normalization as a Sink for Adversarial Signals</em> accepted at <strong>NeurIPS 2026</strong></div></li>
   <li><span class="timeline__date">2026</span><div><em>Beyond Heatmaps</em> accepted at the IJCAI-ECAI 2026 XAI Workshop</div></li>
   <li><span class="timeline__date">2025</span><div><em>AuditCopilot</em> presented at the NeurIPS 2025 Workshop on Generative AI in Finance</div></li>
   <li><span class="timeline__date">2025</span><div>Concept-bottleneck multi-agent RAG for radiology reports at ECIR 2025 and ACM EICS 2025</div></li>
+  <li><span class="timeline__date">2024</span><div>Won a <strong>Google Research Grant</strong> and a <strong>BMBF Software Campus grant</strong>, both as project lead</div></li>
 </ul>
 
 ## Awards
