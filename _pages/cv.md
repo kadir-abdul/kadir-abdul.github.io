@@ -29,7 +29,7 @@ redirect_from:
 
 <div class="card-grid card-grid--2">
   <div class="card"><span class="card__num">Apr 2024 – Mar 2026 · BMBF</span><h3>IUML: Interpretability in Unsupervised Machine Learning</h3><p><strong>Project lead.</strong> Software Campus grant from the German Federal Ministry of Education and Research (BMBF, ref. 16IS23064), with industry partner Talentik GmbH. Explainable decision support for tax-fraud detection, combining XAI and LLMs to explain anomaly-detection results. <a href="https://www.dfki.de/web/forschung/projekte-publikationen/projekt/iuml">Project page</a></p></div>
-  <div class="card"><span class="card__num">Jan – Dec 2024 · Google</span><h3>Google Research Grant: End-to-End Active Learning for Medical Image Annotation</h3><p>Funded collaboration with Google (with H. M. T. Alam). Modular active-learning framework on Google Cloud Platform for large-scale, privacy-preserving medical image annotation, including a federated-learning use case. <a href="https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/">News</a></p></div>
+  <div class="card"><span class="card__num">Jan – Dec 2024 · Google</span><h3>Google Research Grant: End-to-End Active Learning for Medical Image Annotation</h3><p><strong>Co-applicant &amp; researcher</strong> with H. M. T. Alam: we wrote the proposal that won the grant and carried out the project. Modular active-learning framework on Google Cloud Platform for large-scale, privacy-preserving medical image annotation, including a federated-learning use case. <a href="https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/">News</a></p></div>
 </div>
 
 ## Awards
