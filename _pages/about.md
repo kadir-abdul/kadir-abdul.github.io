@@ -38,9 +38,9 @@ redirect_from:
 
 <ul class="timeline">
   <li><span class="timeline__date">2026</span><div><strong>Top Reviewer</strong>, NeurIPS 2026 · <a href="/files/top-reviewer-award.pdf">Certificate</a></div></li>
-  <li><span class="timeline__date">2026</span><div><strong>Spotlight</strong>, NeurIPS 2026</div></li>
-  <li><span class="timeline__date">2023</span><div><strong>Best Demo Award</strong>, ACM IUI 2023</div></li>
-  <li><span class="timeline__date">2021</span><div><strong>Best Paper Award</strong>, CD-MAKE 2021</div></li>
+  <li><span class="timeline__date">2026</span><div><strong>Spotlight</strong>, NeurIPS 2026 · <em><a href="/publication/2026-tgcl">Multimodal Concepts for Interpreting Large Vision–Language Models</a></em></div></li>
+  <li><span class="timeline__date">2023</span><div><strong>Best Demo Award</strong>, ACM IUI 2023 · <em><a href="/publication/2023-emile-ui">A User Interface for Explaining Machine Learning Model Explanations</a></em></div></li>
+  <li><span class="timeline__date">2021</span><div><strong>Best Paper Award</strong>, CD-MAKE 2021 · <em><a href="/publication/2021-gradcam-explainable-features">On the Overlap Between Grad-CAM Saliency Maps and Explainable Visual Features in Skin Cancer Images</a></em></div></li>
 </ul>
 
 ## Selected publications

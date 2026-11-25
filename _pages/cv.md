@@ -10,9 +10,9 @@ redirect_from:
 ## Experience
 
 <ul class="timeline">
-  <li><span class="timeline__date">2020 – now</span><div><strong>Researcher</strong> · German Research Center for Artificial Intelligence (DFKI), Saarbrücken<br><span class="muted">Interpretability and robustness of vision and language models; reliable AI for healthcare and finance; ML pipelines from research to deployment.</span></div></li>
+  <li><span class="timeline__date">2020 – now</span><div><strong>Researcher</strong> · German Research Center for Artificial Intelligence (DFKI), Saarbrücken<br><span class="muted">Explainable AI for language and vision models; robustness and reliable AI for healthcare and finance; ML DevOps from research to deployment.<br>Built AI systems for skin cancer detection, eye disease detection, automatic shift planning, and an ML model explainer.</span></div></li>
   <li><span class="timeline__date">2018 – 2020</span><div><strong>Research Assistant</strong> · DFKI, Saarbrücken<br><span class="muted">NLP (co-reference resolution, custom PyTorch architectures) and model-visualisation tooling.</span></div></li>
-  <li><span class="timeline__date">2016 – 2018</span><div><strong>Research Assistant</strong> · IFOMIS, Saarland University<br><span class="muted">RESTful services for medical data integration.</span></div></li>
+  <li><span class="timeline__date">2016 – 2018</span><div><strong>Research Assistant</strong> · IFOMIS, Saarland University<br><span class="muted">RESTful services for medical data integration and a Java-based Git client.</span></div></li>
   <li><span class="timeline__date">2015 – 2016</span><div><strong>Technical Service Officer</strong> · Radiant Export Import Enterprise, Dhaka</div></li>
 </ul>
 
@@ -38,14 +38,21 @@ redirect_from:
   <li><span class="timeline__date">2026</span><div><strong>Top Reviewer</strong>, NeurIPS 2026 · <a href="/files/top-reviewer-award.pdf">Certificate (PDF)</a></div></li>
   <li><span class="timeline__date">2026</span><div><strong>Spotlight</strong>, NeurIPS 2026 · <em>Multimodal Concepts for Interpreting Large Vision–Language Models</em></div></li>
   <li><span class="timeline__date">2023</span><div><strong>Best Demo Award</strong>, ACM IUI 2023 · <em><a href="https://dl.acm.org/doi/abs/10.1145/3581754.3584131">A User Interface for Explaining Machine Learning Model Explanations</a></em></div></li>
-  <li><span class="timeline__date">2021</span><div><strong>Best Paper Award</strong>, CD-MAKE 2021</div></li>
+  <li><span class="timeline__date">2021</span><div><strong>Best Paper Award</strong>, CD-MAKE 2021 · <em><a href="/publication/2021-gradcam-explainable-features">On the Overlap Between Grad-CAM Saliency Maps and Explainable Visual Features in Skin Cancer Images</a></em></div></li>
 </ul>
 
 ## Skills
 
 <div class="chips">
-  <span class="chip">Python</span><span class="chip">PyTorch</span><span class="chip">Hugging Face</span><span class="chip">TensorFlow</span><span class="chip">scikit-learn</span><span class="chip">OpenCV</span><span class="chip">SLURM / HPC</span><span class="chip">Docker</span><span class="chip">Kubernetes</span><span class="chip">GCP</span><span class="chip">AWS</span><span class="chip">MLflow</span><span class="chip">Git &amp; CI/CD</span><span class="chip">LaTeX</span>
+  <span class="chip">Python</span><span class="chip">Java</span><span class="chip">SQL</span><span class="chip">Go</span><span class="chip">C</span><span class="chip">JavaScript</span><span class="chip">MATLAB</span><span class="chip">R</span><span class="chip">PyTorch</span><span class="chip">Hugging Face</span><span class="chip">TensorFlow</span><span class="chip">scikit-learn</span><span class="chip">OpenCV</span><span class="chip">NumPy</span><span class="chip">Dash</span><span class="chip">SLURM / HPC</span><span class="chip">Docker</span><span class="chip">Kubernetes</span><span class="chip">GCP</span><span class="chip">AWS</span><span class="chip">MLflow</span><span class="chip">Kubeflow</span><span class="chip">IBM Cloud</span><span class="chip">Git &amp; CI/CD</span><span class="chip">LaTeX</span>
 </div>
+
+## Languages
+
+<ul class="timeline">
+  <li><span class="timeline__date">English</span><div>Professional working proficiency</div></li>
+  <li><span class="timeline__date">German</span><div>Intermediate</div></li>
+</ul>
 
 ## Service & teaching
 
