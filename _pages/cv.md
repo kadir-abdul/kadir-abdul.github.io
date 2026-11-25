@@ -21,6 +21,7 @@ redirect_from:
 <ul class="timeline">
   <li><span class="timeline__date">2022 – now</span><div><strong>Ph.D. in Computer Science</strong> · University of Oldenburg, Germany<br><span class="muted">Explainable and reliable deep learning · Advisor: Prof. Daniel Sonntag</span></div></li>
   <li><span class="timeline__date">2016 – 2020</span><div><strong>M.Sc. in Computer Science</strong> · Saarland University, Germany<br><span class="muted">Machine learning and artificial intelligence</span></div></li>
+  <li><span class="timeline__date">Apr – Sep 2016</span><div><strong>Graduate studies (enrolled)</strong> · Bangladesh University of Engineering and Technology (BUET), Dhaka<br><span class="muted">Admitted April 2016; withdrew in September 2016 to begin the M.Sc. at Saarland University.</span></div></li>
   <li><span class="timeline__date">2011 – 2015</span><div><strong>B.Sc. in Electrical and Electronic Engineering</strong> · BRAC University, Bangladesh<br><span class="muted">Robotics and automation</span></div></li>
 </ul>
 
