@@ -33,7 +33,7 @@ author_profile: true
     <h3>Mitigating hallucination and sycophancy</h3>
     <p>Using mechanistic interpretability to locate the internal circuits behind failure modes in LLMs and LVLMs, and to correct them with targeted interventions rather than retraining.</p>
     <ul>
-      <li><strong>Hallucination.</strong> Finding the components that let models generate content unsupported by the input, especially visual evidence in LVLMs, and suppressing them.</li>
+      <li><strong>Hallucination.</strong> Training-free mitigators remove some hallucinations but introduce new ones. <em>Fix One, Add One: Gated Rollback</em> (in preparation) uses an attention-based detector to rewind generation and apply mitigation only when needed.</li>
       <li><strong>Sycophancy.</strong> Identifying the mechanisms that make models defer to a user's stated beliefs over the truth, and steering them back toward faithful answers.</li>
     </ul>
   </div>
