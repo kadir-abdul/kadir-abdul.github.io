@@ -25,11 +25,11 @@ redirect_from:
   <li><span class="timeline__date">2011 – 2015</span><div><strong>B.Sc. in Electrical and Electronic Engineering</strong> · BRAC University, Bangladesh<br><span class="muted">Robotics and automation</span></div></li>
 </ul>
 
-## Projects & funding
+## Grants & funding
 
 <div class="card-grid card-grid--2">
-  <div class="card"><span class="card__num">2024 – 2026</span><h3>Explainable AI for Tax Fraud Detection</h3><p>Software Campus project with Talentik GmbH: anomaly detection on financial accounting data with an explainability layer. <a href="https://www.dfki.de/web/forschung/projekte-publikationen/projekt/iuml">Project page</a></p></div>
-  <div class="card"><span class="card__num">2023 – 2024</span><h3>Active Learning in the Cloud</h3><p>Google Cloud &amp; DFKI: active-learning backend on GCP for OCT segmentation. <a href="https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/">News</a></p></div>
+  <div class="card"><span class="card__num">Apr 2024 – Mar 2026 · BMBF</span><h3>IUML: Interpretability in Unsupervised Machine Learning</h3><p><strong>Project lead.</strong> Software Campus grant from the German Federal Ministry of Education and Research (BMBF, ref. 16IS23064), with industry partner Talentik GmbH. Explainable decision support for tax-fraud detection, combining XAI and LLMs to explain anomaly-detection results. <a href="https://www.dfki.de/web/forschung/projekte-publikationen/projekt/iuml">Project page</a></p></div>
+  <div class="card"><span class="card__num">Jan – Dec 2024 · Google</span><h3>Google Research Grant: End-to-End Active Learning for Medical Image Annotation</h3><p>Funded collaboration with Google (with H. M. T. Alam). Modular active-learning framework on Google Cloud Platform for large-scale, privacy-preserving medical image annotation, including a federated-learning use case. <a href="https://iml.dfki.de/news/end-to-end-active-learning-framework-for-medical-image-annotation/">News</a></p></div>
 </div>
 
 ## Awards
