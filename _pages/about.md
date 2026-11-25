@@ -10,11 +10,12 @@ redirect_from:
 <div class="hero">
   <p class="hero__eyebrow">AI Researcher · DFKI · University of Oldenburg</p>
   <h1 class="hero__title">What do large models actually compute, and how do we fix them when they are wrong?</h1>
-  <p class="hero__lead">I'm Abdul Kadir, an AI researcher at the <strong>German Research Center for Artificial Intelligence (DFKI)</strong> in Saarbrücken and a PhD candidate at the <strong>University of Oldenburg</strong> (since 2022), advised by Prof. Daniel Sonntag.</p>
+  <p class="hero__lead">I'm Abdul Kadir, an AI researcher at the <strong>German Research Center for Artificial Intelligence (DFKI)</strong> in Saarbrücken and a PhD candidate at the <strong>University of Oldenburg</strong> (since 2022), advised by Prof. Daniel Sonntag. I currently work on mitigating <strong>hallucination</strong> and <strong>sycophancy</strong> in LLMs and LVLMs through mechanistic interpretability.</p>
   <div class="chips">
     <span class="chip">Mechanistic interpretability</span>
     <span class="chip">Vision–language models</span>
     <span class="chip">Robustness &amp; backdoors</span>
+    <span class="chip">Hallucination &amp; sycophancy</span>
     <span class="chip">Reliable foundation models</span>
   </div>
   <div class="hero__cta">
