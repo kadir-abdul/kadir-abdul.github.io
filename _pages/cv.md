@@ -10,7 +10,7 @@ redirect_from:
 ## Experience
 
 <ul class="timeline">
-  <li><span class="timeline__date">2020 – now</span><div><strong>Researcher</strong> · German Research Center for Artificial Intelligence (DFKI), Saarbrücken<br><span class="muted">Explainable AI for language and vision models; robustness and reliable AI for healthcare and finance; ML DevOps from research to deployment.<br>Built AI systems for skin cancer detection, eye disease detection, automatic shift planning, and an ML model explainer.</span></div></li>
+  <li><span class="timeline__date">2020 – now</span><div><strong>Researcher (full-time)</strong> · German Research Center for Artificial Intelligence (DFKI), Saarbrücken<br><span class="muted">Projects: No-IDLE (BMFTR), Ophthalmo-AI (BMFTR), RSML (robust machine learning for defense).<br>Explainable AI for language and vision models; robustness and reliable AI for healthcare and finance; ML DevOps from research to deployment.<br>Built AI systems for skin cancer detection, eye disease detection, automatic shift planning, and an ML model explainer.</span></div></li>
   <li><span class="timeline__date">2018 – 2020</span><div><strong>Research Assistant</strong> · DFKI, Saarbrücken<br><span class="muted">NLP (co-reference resolution, custom PyTorch architectures) and model-visualisation tooling.</span></div></li>
   <li><span class="timeline__date">2016 – 2018</span><div><strong>Research Assistant</strong> · IFOMIS, Saarland University<br><span class="muted">RESTful services for medical data integration and a Java-based Git client.</span></div></li>
   <li><span class="timeline__date">2015 – 2016</span><div><strong>Technical Service Officer</strong> · Radiant Export Import Enterprise, Dhaka</div></li>
