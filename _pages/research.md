@@ -43,7 +43,7 @@ author_profile: true
     <p>Deploying foundation models where errors are expensive, with explanations experts can check.</p>
     <ul>
       <li><strong>Finance and auditing.</strong> LLM-based fraud detection in double-entry bookkeeping with auditable rationales. <a href="/publication/2025-auditcopilot">NeurIPS 2025 Workshop</a></li>
-      <li><strong>Medical imaging.</strong> Concept-bottleneck multi-agent RAG for interpretable radiology reports; active learning for OCT segmentation. ECIR 2025 · EICS 2025 · MICCAI 2023</li>
+      <li><strong>Medical imaging.</strong> Concept-bottleneck multi-agent RAG for interpretable radiology reports; active learning for OCT segmentation. ECIR 2025 · EICS 2025 · <a href="/publication/2023-edgeal-oct-segmentation">MICCAI 2023</a></li>
     </ul>
   </div>
 </div>

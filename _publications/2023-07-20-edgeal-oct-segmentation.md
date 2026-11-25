@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/2023-edgeal-oct-segmentation
 date: 2023-07-20
-venue: "MICCAI 2023 (submitted) / arXiv"
-paperurl: "https://arxiv.org/abs/2307.10745"
-doi: "10.48550/arXiv.2307.10745"
+venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI 2023), LNCS, pp. 79–89"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-43895-0_8"
+doi: "10.1007/978-3-031-43895-0_8"
 authors: "Abdul Kadir, Hasan Md Tusfiqur Alam, and Daniel Sonntag"
-citation: 'Md Abdul Kadir, Hasan Md Tusfiqur Alam, and Daniel Sonntag. (2023). "EdgeAL: An Edge Estimation Based Active Learning Approach for OCT Segmentation." arXiv:2307.10745 [cs.CV].'
+citation: 'Md Abdul Kadir, Hasan Md Tusfiqur Alam, and Daniel Sonntag. (2023). "EdgeAL: An Edge Estimation Based Active Learning Approach for OCT Segmentation." In Medical Image Computing and Computer Assisted Intervention – MICCAI 2023, LNCS, pp. 79–89. Springer.'
 excerpt: "Uses edge awareness and superpixel uncertainty to cut annotation cost for multi-class OCT segmentation down to a few percent."
 ---
 
